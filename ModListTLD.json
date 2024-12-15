@@ -1,0 +1,46 @@
+{
+	"version": "2",
+	"author": "Ezinw",
+	"authorURL": "https://github.com/Ezinw",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "2.0.0",
+			"name": "SleepWithoutABed",
+			"displayName": "SleepWithoutABed",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-02-01",
+			"updated": "2024-12-15",
+			"downloadURL": "https://github.com/Ezinw/TLD_SleepWithoutABed/releases/tag/v2.0.0",
+			"modURL": "https://github.com/Ezinw/TLD_SleepWithoutABed",
+			"description": "Allows players to sleep without a bed or bedroll. Accessed through the "Pass Time" option in the radial menu. Full description in README.",
+			"tags": "Sleep",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": ["tftft"],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
+	]
+}
