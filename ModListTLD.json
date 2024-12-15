@@ -20,7 +20,10 @@
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": ["tftft"],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
@@ -40,7 +43,8 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
