@@ -45,6 +45,92 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+		    "type": "mod",
+			"version": "1.1.2",
+			"name": "Skill-Adjustment",
+			"displayName": "Skill Adjustment",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2023-12-06",
+			"updated": "2024-12-21",
+			"downloadURL": "https://github.com/Ezinw/TLD_Skill-Adjustment/releases/tag/v1.1.2",
+			"modURL": "https://github.com/Ezinw/TLD_Skill-Adjustment",
+			"description": "Allows the player to adjust the skill benefits for each level.",
+			"tags": "Skill",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+		    "type": "mod",
+			"version": "1.0.2",
+			"name": "RecipeRequirements",
+			"displayName": "Recipe Requirements",
+			"author": "",
+			"previousAuthors": "",
+			"released": "2024-12-24",
+			"updated": "2024-12-24",
+			"downloadURL": "https://github.com/Ezinw/TLD_RecipeRequirements/releases/tag/v1.0.2",
+			"modURL": "https://github.com/Ezinw/TLD_RecipeRequirements",
+			"description": "Allows the player to adjust the cooking skill level required to create specific recipes.",
+			"tags": "Cooking",
+			"categories": [
+				"Gameplay",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
