@@ -24,7 +24,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/SWaB.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
