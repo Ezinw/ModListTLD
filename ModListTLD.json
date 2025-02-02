@@ -110,7 +110,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/RecipeReq.png"
+			],
 			"dependencies": [
 				"ModSettings"
 			],
