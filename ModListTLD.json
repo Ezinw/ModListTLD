@@ -50,14 +50,14 @@
 		},
 		{
 		    "type": "mod",
-			"version": "1.2.3",
+			"version": "1.2.4",
 			"name": "Skill-Adjustment",
 			"displayName": "Skill Adjustment",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-12-06",
-			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/Ezinw/TLD_Skill-Adjustment/releases/tag/v1.2.3",
+			"updated": "2026-01-05",
+			"downloadURL": "https://github.com/Ezinw/TLD_Skill-Adjustment/releases/tag/v1.2.4",
 			"modURL": "https://github.com/Ezinw/TLD_Skill-Adjustment",
 			"description": "Allows the player to adjust the skill benefits for each level.",
 			"tags": "Skill",
@@ -140,3 +140,4 @@
 		}
 	]
 }
+
