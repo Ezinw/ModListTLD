@@ -25,7 +25,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/SWaB.png"
+				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/SWaB.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -70,7 +70,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/SkillAdjustment.png"
+				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/SkillAdjustment.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -115,7 +115,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/RecipeReq.png"
+				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/RecipeReq.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -140,5 +140,6 @@
 		}
 	]
 }
+
 
 
