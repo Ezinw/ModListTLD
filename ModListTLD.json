@@ -141,7 +141,7 @@
 		{
 		    "type": "mod",
 			"version": "1.1.0",
-			"name": "ChooseStartingLocation",
+			"name": "Choose Starting Location",
 			"displayName": "Choose Starting Location",
 			"author": "",
 			"previousAuthors": "Cass",
@@ -185,6 +185,7 @@
 		}
 	]
 }
+
 
 
 
