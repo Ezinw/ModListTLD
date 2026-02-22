@@ -137,9 +137,55 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+		    "type": "mod",
+			"version": "1.1.0",
+			"name": "ChooseStartingLocation",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "Cass",
+			"released": "2026-02-20",
+			"updated": "",
+			"downloadURL": "https://github.com/Ezinw/ChooseStartingLocation/releases/tag/v1.1.0",
+			"modURL": "https://github.com/Ezinw/ChooseStartingLocation",
+			"description": "Allows you to choose your starting location when starting a new Sandbox game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
+			"tags": "Custom, Start, Location, Spawn",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Ezinw/ModListTLD/main/Images/CSL.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
+
 
 
 
