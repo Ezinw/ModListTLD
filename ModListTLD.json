@@ -142,7 +142,7 @@
 		    "type": "mod",
 			"version": "1.1.0",
 			"name": "ChooseStartingLocation",
-			"displayName": "Choose Starting Location",
+			"displayName": "",
 			"author": "",
 			"previousAuthors": "Cass",
 			"released": "2026-02-20",
@@ -185,6 +185,7 @@
 		}
 	]
 }
+
 
 
 
