@@ -146,7 +146,7 @@
 			"author": "",
 			"previousAuthors": "Cass",
 			"released": "2026-02-20",
-			"updated": "",
+			"updated": "2026-02-20",
 			"downloadURL": "https://github.com/Ezinw/ChooseStartingLocation/releases/tag/v1.1.0",
 			"modURL": "https://github.com/Ezinw/ChooseStartingLocation",
 			"description": "Allows you to choose your starting location when starting a new Sandbox game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
@@ -185,6 +185,7 @@
 		}
 	]
 }
+
 
 
 
