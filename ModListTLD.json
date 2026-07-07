@@ -170,7 +170,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Issue with prepper cache randomization. All cache's load the same scene. Fix being worked on (No ETA at the moment)."
 			},
 			"testedon": {
 				"tldversion": "2.51",
