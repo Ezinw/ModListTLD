@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.3.1",
+			"version": "2.3.2",
 			"name": "SleepWithoutABed",
 			"displayName": "SleepWithoutABed",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-02-01",
 			"updated": "2026-01-27",
-			"downloadURL": "https://github.com/Ezinw/TLD_SleepWithoutABed/releases/tag/v2.3.1",
+			"downloadURL": "https://github.com/Ezinw/TLD_SleepWithoutABed/releases/tag/v2.3.2",
 			"modURL": "https://github.com/Ezinw/TLD_SleepWithoutABed",
 			"description": "Allows players to sleep without a bed or bedroll. Accessed through the Pass Time option in the radial menu.",
 			"tags": "Sleep",
@@ -38,7 +38,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -50,14 +50,14 @@
 		},
 		{
 		    "type": "mod",
-			"version": "1.2.4",
+			"version": "1.2.5",
 			"name": "Skill-Adjustment",
 			"displayName": "Skill Adjustment",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2023-12-06",
 			"updated": "2026-01-05",
-			"downloadURL": "https://github.com/Ezinw/TLD_Skill-Adjustment/releases/tag/v1.2.4",
+			"downloadURL": "https://github.com/Ezinw/TLD_Skill-Adjustment/releases/tag/v1.2.5",
 			"modURL": "https://github.com/Ezinw/TLD_Skill-Adjustment",
 			"description": "Allows the player to adjust the skill benefits for each level.",
 			"tags": "Skill",
@@ -83,7 +83,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -95,14 +95,14 @@
 		},
 		{
 		    "type": "mod",
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"name": "RecipeRequirements",
 			"displayName": "Recipe Requirements",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-12-24",
 			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/Ezinw/TLD_RecipeRequirements/releases/tag/v1.0.3",
+			"downloadURL": "https://github.com/Ezinw/TLD_RecipeRequirements/releases/tag/v1.0.4",
 			"modURL": "https://github.com/Ezinw/TLD_RecipeRequirements",
 			"description": "Allows the player to adjust the cooking skill level required to create specific recipes.",
 			"tags": "Cooking",
@@ -128,7 +128,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -140,14 +140,14 @@
 		},
 		{
 		    "type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"name": "ChooseStartingLocationTFTFT",
 			"displayName": "Choose Starting Location",
 			"author": "",
 			"previousAuthors": "Cass",
 			"released": "2026-02-20",
 			"updated": "2026-07-16",
-			"downloadURL": "https://github.com/Ezinw/ChooseStartingLocation/releases/tag/v1.2.0",
+			"downloadURL": "https://github.com/Ezinw/ChooseStartingLocation/releases/tag/v1.2.1",
 			"modURL": "https://github.com/Ezinw/ChooseStartingLocation",
 			"description": "Allows you to choose your starting location when starting a new Sandbox game. 300+ locations, all regions, all difficulty modes. Full instructions in the README.",
 			"tags": "Custom, Start, Location, Spawn",
@@ -173,7 +173,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
